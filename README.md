@@ -45,8 +45,8 @@ This is the first project of the Math Magicians application. You will set up the
 
 ### Usage
 
-- Clone the repository using `git clone https://github.com/ONJoseph/math-magicians.git`
-- Change directory into the project folder: `cd math-magicians`
+- Clone the repository using `git clone https://github.com/ONJoseph/mathmagicians.git`
+- Change directory into the project folder: `cd mathmagicians`
 - Run `npm install`
 - Run `npm start`
 - A new browser will open automatically with application loaded
