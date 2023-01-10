@@ -1,49 +1,99 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+<a name="readme-top"></a>
 
-# Joseph Ogbole Math magicians project
+<div align="center">
 
-> React app
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
-![screenshot](./screenshot.png)
+  <h3><b>Microverse README Template</b></h3>
 
-## Description
+</div>
 
-This is the first project of the Math Magicians application. You will set up the environment and tools needed to develop a React application. In the following projects, you will develop the actual application.
+# 📗 Table of Contents
 
-## Requirements:
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-### Phase 1, setup project
+# 📖 [Math Magicians] <a name="about-project"></a>
 
-- [ ] The easiest way to create a React application is using Create React App (CRA) and following the instructions in this [guide](https://create-react-app.dev/docs/getting-started/).
-- [ ] The application should run in the browser without errors.
+**[Math Magicians]** is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations and Read a random math-related quote.
 
-## Built With
+## 🛠 Built With <a name="built-with"></a>
 
-- Major languages: Javascript
-- Frameworks: React.js
-- Technologies used: Node.js, Babel, Jest, webpack
-- Tested with: - ESLint (JavaScript linting), Stylelint (style linting)
+### Tech Stack <a name="tech-stack"></a>
 
-## Live Demo
+<details>
+  <summary>Client/Server</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">-React.js</a></li>
+  </ul>
+</details>
+- HTML/CSS & JavaScript best practices: Correct use of tags, elements, properties and syntax.
+- Linters Check: Local and Pull Request check for errors, bugs and stylistic errors in code.
+- Gitflow
 
-- No deployment yet
+### Key Features <a name="key-features"></a>
+
+- **[Home Page]**
+- **[Calculator Page]**
+- **[Quotes Page]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](No deployment yet)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps:
 
 ### Prerequisites
 
+In order to run this project you need:
+
 - Internet connection and browser
-- A text editor(preferably Visual Studio Code)
+- A source code editor(preferably Visual Studio Code)
 - Browser
+- Install nodeJS along with NPM
 
 ### Setup
+
+Clone this repository to your desired folder:
+
+-Local environment with `git clone https://github.com/ONJoseph/mathmagicians.git`
 
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Install
 
+Install this project with:
+
 - [Git](https://git-scm.com/downloads)
 - [Node](https://nodejs.org/en/download/)
+- Run `npm i` on the root of the project and you're good to go. All of the necessary packages will be installed for you!
 
 ### Usage
+
+To run the project, execute the following command:
 
 - Clone the repository using `git clone https://github.com/ONJoseph/mathmagicians.git`
 - Change directory into the project folder: `cd mathmagicians`
@@ -90,30 +140,53 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ### Deployment
 
-- Not ready yet
+You can deploy this project using:
 
-## Author
+- Run `npm run build` for Webpack to generate the dist files corresponding to your actual /src file
 
-👤 **Joseph Ogbole**
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👥 Authors <a name="Joseph Ogbole"></a>
 
 - GitHub: [@ONJoseph](https://github.com/ONJoseph)
 - Twitter: [@ONJoseph1](https://twitter.com/ONJoseph1)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/o-n-joseph-ba8425147/)
 
-## 🤝 Contributing
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Project 2: Components]**
+- [ ] **[Project 3: Events]**
+- [ ] **[Project 4: Refactor with hooks]**
+- [ ] **[Project 5: Full website.]**
+- [ ] **[Project 6: Tests (pair programming)]**
+- [ ] **[Exercise: Deploy]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/ONJoseph/mathmagicians/issues).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
+## ⭐️ Show your support <a name="support"></a>
 
-## Acknowledgments
+If you like this project please give a ⭐️ to show your support!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank:
 
 - Microverse for the Readme Template
 
-## 📝 License
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This project is [MIT](./license.md) licensed.
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
