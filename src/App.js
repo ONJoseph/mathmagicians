@@ -36,4 +36,3 @@ class App extends react.Component {
 }
 
 export default App;
-
