@@ -183,7 +183,9 @@ If you like this project please give a ⭐️ to show your support!
 
 I would like to thank:
 
-- Microverse for the Readme Template
+- [Microverse](https://www.microverse.org/)
+- Code Reviewers
+- Coding Partners
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
